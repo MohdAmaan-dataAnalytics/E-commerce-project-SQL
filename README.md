@@ -104,5 +104,5 @@ I learned how multiple related tables can be connected using primary and foreign
 
 **Mohd Amaan**
 
-GitHub: [mohdamaan8954](https://github.com/mohdamaan8954)
+GitHub: [MohdAmaan-dataAnalytics](https://github.com/MohdAmaan-dataAnalytics)
 
